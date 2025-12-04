@@ -1,4 +1,4 @@
-# 🎥 Video Check Pro - Mini Project
+# 🎥 Video Check Pro - Major Project
 
 A modern web-based application to upload and verify video files with playback, format validation, and user-friendly interface.
 
