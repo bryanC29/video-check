@@ -1,0 +1,26 @@
+====== ANALYZING VIDEO: originalV (original) ======
+[DEBUG] Min diff: 0.45, Max diff: 4.96, Avg diff: 2.17
+[MOTION] Suspicious frames: 0
+[BLUR DEBUG] Min sharpness: 79.61, Max sharpness: 406.33, Avg sharpness: 104.77
+[BLUR] Blurred frames: 56
+[COLOR DEBUG] Min diff: 0.0174, Max diff: 0.2266, Avg diff: 0.0518
+[COLOR] Color-changed frames: 0
+[SSIM DEBUG] Min SSIM: 0.762, Max SSIM: 0.982, Avg SSIM: 0.926
+[SSIM] SSIM-irregular frames: 63
+
+--- FINAL RESULT ---
+[RESULT] VIDEO IS TAMPERED — MULTIPLE FORENSIC FLAGS
+
+
+====== ANALYZING VIDEO: tamperedV (tampered) ======
+[DEBUG] Min diff: 0.11, Max diff: 2.16, Avg diff: 0.70
+[MOTION] Suspicious frames: 0
+[BLUR DEBUG] Min sharpness: 1.50, Max sharpness: 2.40, Avg sharpness: 2.12
+[BLUR] Blurred frames: 128
+[COLOR DEBUG] Min diff: 0.0226, Max diff: 0.1621, Avg diff: 0.0452
+[COLOR] Color-changed frames: 0
+[SSIM DEBUG] Min SSIM: 0.972, Max SSIM: 0.999, Avg SSIM: 0.991
+[SSIM] SSIM-irregular frames: 0
+
+--- FINAL RESULT ---
+[RESULT] VIDEO MAY BE TAMPERED — SINGLE ANOMALY DETECTED
